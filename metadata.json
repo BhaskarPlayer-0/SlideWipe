@@ -1,0 +1,6 @@
+{
+  "name": "CleanPDF - Gamma Watermark Remover",
+  "description": "Remove 'Made with Gamma' watermarks from presentation PDFs with seamless background-aware healing, interactive comparison, and instant downloadable PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
